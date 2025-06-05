@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PortPing": {
+      "commandName": "Project",
+      "commandLineArgs": "-t 4 -i 3 bigtyre.com.au:443"
+    }
+  }
+}
